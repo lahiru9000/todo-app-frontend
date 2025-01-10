@@ -1,0 +1,7 @@
+.header {
+    background-color: hsla(240, 100%, 50%, 0.608);
+    padding: 10px 20px;
+    font-size: 2rem;
+    font-family: monospace;
+    font-weight: bold;
+}
